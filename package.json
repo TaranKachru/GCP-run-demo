@@ -1,1 +1,14 @@
-
+{
+  "name": "gcp-run-demo",
+  "version": "1.0.0",
+  "description": "Simple Express app deployed on Google Cloud Run",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Taran Kachru",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
